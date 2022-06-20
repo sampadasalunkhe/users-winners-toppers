@@ -1,0 +1,20 @@
+.create_button{
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: large;
+}
+.mat-table{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50%;
+}
+.mat-cell{
+    font-size: large;
+}
+.mat-header-cell{
+    font-size: large;
+}
+.confirmbutton{
+   font-size: large;
+}

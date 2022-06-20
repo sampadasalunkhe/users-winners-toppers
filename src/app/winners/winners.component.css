@@ -1,0 +1,12 @@
+.mat-table{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50%;
+}
+.mat-cell{
+    font-size: large;
+}
+.mat-header-cell{
+    font-size: large;
+}
